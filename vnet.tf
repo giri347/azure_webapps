@@ -1,4 +1,4 @@
-
+/*
 resource "azurerm_network_security_group" "einfosg" {
   name                = "einfo-security-group"
   location            = azurerm_resource_group.appgrp.location
@@ -26,3 +26,4 @@ resource "azurerm_virtual_network" "einfovnet" {
 
 
 }
+*/
